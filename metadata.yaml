@@ -1,11 +1,16 @@
 _repo: Early-Quaker-education-in-Pennsylvania_72371
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72371-h/images/cover.jpg
 creator:
   author:
     agent_name: Woody, Thomas
     gutenberg_agent_id: '56660'
     url: http://www.gutenberg.org/2009/agents/56660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72371#Early-Quaker-education-in-Pennsylvania
 gutenberg_issued: '2023-12-10'
 gutenberg_type: Text
 identifiers:
